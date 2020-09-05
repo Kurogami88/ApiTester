@@ -1,6 +1,6 @@
 # Kurogami API Tester
 
-Standalone REST API tester when you just need a simple local REST API tester
+Standalone REST API tester when you just need a simple local REST API tester  
 Developed in React with Typescript to test out on PrimeReact UI component!
 
 ## Dependency Framework/Libraries
