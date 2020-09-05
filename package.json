@@ -1,0 +1,36 @@
+{
+	"name": "apiTester",
+	"version": "1.0.0",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"classnames": "^2.2.6",
+		"primeflex": "^2.0.0-rc.1",
+		"primeicons": "^4.0.0",
+		"primereact": "^5.0.0-rc.1",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-scripts": "^3.4.3",
+		"react-transition-group": "^4.4.1",
+		"typescript": "^3.9.6"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	],
+	"devDependencies": {
+		"@types/jest": "^26.0.4",
+		"@types/node": "^14.0.22",
+		"@types/react": "^16.9.43",
+		"@types/react-dom": "^16.9.8",
+		"@types/webpack-env": "^1.15.2",
+		"eslint-plugin-react": "^7.20.3"
+	}
+}

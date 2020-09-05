@@ -1,0 +1,35 @@
+{
+	"short_name": "AT",
+	"name": "API Tester",
+	"icons": [
+		{
+			"src": "logo.jpg",
+			"sizes": "16x16",
+			"type": "image/jpeg"
+		},
+		{
+			"src": "logo.jpg",
+			"sizes": "24x24",
+			"type": "image/jpeg"
+		},
+		{
+			"src": "logo.jpg",
+			"sizes": "32x32",
+			"type": "image/jpeg"
+		},
+		{
+			"src": "logo.jpg",
+			"sizes": "64x64",
+			"type": "image/jpeg"
+		},
+		{
+			"src": "logo.jpg",
+			"sizes": "144x144",
+			"type": "image/jpeg"
+		}
+	],
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
